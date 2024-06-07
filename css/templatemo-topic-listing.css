@@ -1069,7 +1069,7 @@ blockquote {
   }
   
   .navbar {
-    background-color: var(--secondary-color);
+    background-color: #FFAC1C;
   }
 
   .navbar-nav .dropdown-menu {
